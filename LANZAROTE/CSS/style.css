@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    overflow: hidden;
+}
+
+body {
+    margin: 0 auto;
+}
+
+div {
+    background-color: #50250a;
+    width: 100vw;
+    height: 100dvh;
+}
